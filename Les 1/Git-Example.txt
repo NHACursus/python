@@ -1,0 +1,31 @@
+Open your homework inside visual studio code.
+
+Open a terminal 
+type git status
+
+if all goes well you will get this message: 
+fatal: not a git repository (or any of the parent directories): .git
+Thats ok now you are sure this folder is not used by git
+
+type git init
+type git add .
+type git commit -m "your commit"
+
+Login on your git account https://github.com
+Klik new 
+Type the Repository name* as indicated in the lesson, I am using "Example".
+scroll down and klik "Create respository"
+
+Dont close the new page
+
+somewhere halfway down the page you will see somthing like this
+
+    …or push an existing repository from the command line
+
+git remote add origin https://github.com/NHACursus/Example.git
+git branch -M main
+git push -u origin main   
+
+copy each line separately in the terminal from visual studio code and press enter
+
+Done!  
