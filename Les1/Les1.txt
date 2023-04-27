@@ -1,0 +1,3 @@
+lesson 1 contains an explanation of the binary system.
+nice to know, but not at all necessary as a higher language programmer.
+there was also no code in this lesson and no homework.

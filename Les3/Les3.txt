@@ -1,0 +1,2 @@
+lesson 3 contains explanations on how to install visual studio code and how to install python.
+a little simple homework and code 
