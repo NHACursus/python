@@ -1,4 +1,4 @@
-# 7.2 what is a string (repetition) some folks need 
+# 7.2 what is a string (repetition)
 
 
 # A few examples
